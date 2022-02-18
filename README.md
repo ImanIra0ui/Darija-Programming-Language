@@ -12,4 +12,4 @@ Designed in Moroccan dialect Darija.
 
 Provides support for all the main construct of a programming language such as variables, functions, control statements, and so on.  
 
-*This project is still under development and requires some additional additions to become complete.*  
+*This project is still under development and requires some additional modifications to become complete.*  
